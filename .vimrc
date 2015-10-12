@@ -2,6 +2,10 @@ set nocompatible
 
 set noswapfile
 
+" menu bottom
+set wildmenu
+set wildmode=full
+
 set title
 set number
 set cursorline
