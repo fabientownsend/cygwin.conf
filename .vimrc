@@ -1,6 +1,8 @@
 set nocompatible
 
 set noswapfile
+syntax on
+colorscheme Tomorrow-Night-Bright
 
 " menu bottom
 set wildmenu
